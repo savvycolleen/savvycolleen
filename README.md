@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @savvycolleen
-- 👀 I’m interested in a career change to software engineering. My first career was elementary education. 
-- 🌱 I’m currently learning APIs with Javascript
-- 💞️ I’m looking to collaborate on beginner projects to familiarize myself with the Git flow
+- 👀 I’m a fullstack web developer
+- 🌱 I’m currently learning node.js and react
+- 💞️ I’m looking to collaborate on building new projects
 - 📫 How to reach me: send me a DM!
 
 <!---
