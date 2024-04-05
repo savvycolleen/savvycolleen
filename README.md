@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savannah Acevedo!</h1>
-<h3 align="center">I'm a full-stack web developer working to make technology efficient, fun, and customizable for ultimate client and consumer happiness.</h3>
+<h3 align="center">I'm a full-stack web developer working to make technology efficient, accessible, & responsive for ultimate client and consumer happiness.</h3>
 
 - 🌱 I’m currently learning **React, Tailwind, and Bootstrap**
 
