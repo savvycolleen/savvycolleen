@@ -5,6 +5,14 @@
 
 - 👨‍💻 All of my projects are available at [https://savannah-portfolio.netlify.app/](https://savannah-portfolio.netlify.app/)
 
+- Here are some of my latest projects!
+
+| [Blog](https://savannahblog.netlify.app/)     |  |
+| :-------- | ------- |
+| status: | in progress    |
+| skills practiced: | Astro, componetization, refactoring for easy scaling |
+| [img of blog](urlhere)   | [GitHub repo](https://github.com/savvycolleen/blog)    |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/savvydoestech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="savvydoestech" height="30" width="40" /></a>
