@@ -11,7 +11,7 @@
 | :-------- | ------- |
 | status: | in progress    |
 | skills practiced: | Astro, componetization, refactoring for easy scaling |
-| [img of blog](urlhere)   | [GitHub repo](https://github.com/savvycolleen/blog)    |
+| [img of blog](imgs/blog.gif)   | [GitHub repo](https://github.com/savvycolleen/blog)    |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
