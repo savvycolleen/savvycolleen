@@ -23,7 +23,7 @@
 | :-------- | ------- |
 | status: | in progress    |
 | skills practiced: | using CSS grid instead of flexblox, type fluidity using clamp |
-| (img)  | [GitHub repo](https://github.com/savvycolleen/sample-website) 
+| <img src="imgs/zenith-dynamics-landing.png" width=300px>  | [GitHub repo](https://github.com/savvycolleen/sample-website) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
