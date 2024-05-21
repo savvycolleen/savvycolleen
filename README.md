@@ -5,13 +5,25 @@
 
 - 👨‍💻 All of my projects are available at [https://savannah-portfolio.netlify.app/](https://savannah-portfolio.netlify.app/)
 
-- Here are some of my latest projects!
+- Here are some of my in-progress projects!
 
 | [Blog](https://savannahblog.netlify.app/)     |  |
 | :-------- | ------- |
 | status: | in progress    |
 | skills practiced: | Astro, componetization, refactoring for easy scaling |
-| [img of blog](imgs/blog.gif)   | [GitHub repo](https://github.com/savvycolleen/blog)    |
+| <img src="imgs/blog.gif" width=300px>   | [GitHub repo](https://github.com/savvycolleen/blog)    |
+
+| [Full Stack Website--Motivation.Co](https://motivation-co.vercel.app/) |  |
+| :-------- | ------- |
+| status: | in progress    |
+| skills practiced: | Next.js, Typescript, componetization, Tailwind.css, Vercel |
+| (img)  | [GitHub repo](https://github.com/savvycolleen/motivation.co) 
+
+| [Frontend Project--Zenith Dynamics](https://sample-website-savvy.netlify.app/) |  |
+| :-------- | ------- |
+| status: | in progress    |
+| skills practiced: | using CSS grid instead of flexblox, type fluidity using clamp |
+| (img)  | [GitHub repo](https://github.com/savvycolleen/sample-website) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
