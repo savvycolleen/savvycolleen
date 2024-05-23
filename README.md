@@ -19,11 +19,11 @@
 | skills practiced: | Next.js, Typescript, componetization, Tailwind.css, Vercel |
 | (img)  | [GitHub repo](https://github.com/savvycolleen/motivation.co) 
 
-| [Frontend Project--Zenith Dynamics](https://sample-website-savvy.netlify.app/) |  |
+| [Frontend Project--Zenith Dynamics](https://zenith-dynamics.netlify.app/) |  |
 | :-------- | ------- |
 | status: | in progress    |
 | skills practiced: | using CSS grid instead of flexblox, type fluidity using clamp |
-| <img src="imgs/zenith-dynamics-landing.png" width=300px>  | [GitHub repo](https://github.com/savvycolleen/sample-website) 
+| <img src="imgs/zenith-dynamics-landing.png" width=300px>  | [GitHub repo](https://github.com/savvycolleen/zenith-dynamics) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
